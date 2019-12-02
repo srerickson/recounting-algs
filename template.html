@@ -41,7 +41,7 @@ $for(header-includes)$
   $header-includes$
 $endfor$
 
-<link href="https://fonts.googleapis.com/css?family=Open+Sans|Solway&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans|Solway|Calistoga&display=swap" rel="stylesheet">
 
 </head>
 <body>
@@ -50,16 +50,19 @@ $include-before$
 $endfor$
 $if(title)$
 <header id="title-block-header">
-<h1 class="title">$title$</h1>
-$if(subtitle)$
-<p class="subtitle">$subtitle$</p>
-$endif$
-$for(author)$
-<p class="author">$author$</p>
-$endfor$
-$if(date)$
-<p class="date">$date$</p>
-$endif$
+  <h1 class="title">$title$</h1>
+  <div class="subtitle-block">
+    $if(subtitle)$
+    <p class="subtitle">$subtitle$</p>
+    $endif$
+    $if(location)$
+    <p class="location">$location$</p>
+    $endif$
+  
+    $if(date)$
+    <p class="date">$date$</p>
+    $endif$
+  </div>
 </header>
 $endif$
 $if(toc)$
@@ -67,7 +70,9 @@ $if(toc)$
 $table-of-contents$
 </nav>
 $endif$
-$body$
+<div class="main">
+  $body$
+</div>
 $for(include-after)$
 $include-after$
 $endfor$

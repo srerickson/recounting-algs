@@ -3,15 +3,43 @@ h1, h2, h3, h4, h5 {
 }
 
 h1.title {
+    float: left;
+    width: 270px;
     font-size: 2.5em;
-    line-height: 1em;
-}
-#subtitle {
-    margin-top: 0;
+    line-height: 1.2em;
+    margin: 0 0 20px 0;
+    font-family: 'Calistoga', sans-serif;
+    color: lightcoral;
 }
 
-#location, #date {
-    margin:0px;
+
+.subtitle-block {
+    float: right;
+    width: 400px;
+    margin-top:10px;
+}
+
+.subtitle-block p {
+    font-family: 'Solway', serif;
+    margin:0;
+    line-height: 1.3em;
+    font-size: 1em;
+}
+
+.subtitle-block .subtitle {
+    font-weight: bold;
+}
+
+@media screen and (max-width: 700px) {
+    .subtitle-block {
+        float: left;
+        clear: both;
+    }
+
+  }
+.main {
+    float:left;
+    clear:both;
 }
 
 body {
