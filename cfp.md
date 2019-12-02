@@ -23,11 +23,11 @@ Librarians and archivists are beginning to incorporate aspects of this critical 
 - Resources for addressing emerging aspects of information and digital  literacy related to machine learning and artificial intelligence. 
 - Projects that reframe core values and practices (such as access and literacy) in light of work from critical algorithm studies. 
 
-Invited workshop participants will present their proposals (in draft or prototype form) and engage in workshop activities to refine and develop them using constructive input from the group. Workshopped projects will be shared as an online resource following the workshop. 
+Invited workshop attendees will present proposals (in draft or prototype form) and participate in workshop activities to further develop their projects. Projects will be shared as an online resource following the workshop. 
 
 ### Submissions
 
-Submissions should include a project abstract (500-word max) and bio (50 word max) for each presenter. If submitting with co-authors, please limit the group to no more than three presenters. Please submit all materials via email <recountingalgs@gmail.com> by January 17, 2020. Successful applicants will be notified of acceptance by February 7, 2020. Email <recountingalgs@gmail.com> with additional additional questions. 
+Submissions should include a project abstract (500-word max) and bio (50-word max) for each presenter. If submitting with co-authors, please limit the group to no more than three presenters. Please submit all materials via email <recountingalgs@gmail.com> by January 17, 2020. Successful applicants will be notified of acceptance by February 7, 2020. Email <recountingalgs@gmail.com> with additional additional questions. 
 
 ### Keynotes
 
