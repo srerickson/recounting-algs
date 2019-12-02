@@ -26,7 +26,7 @@ We invite proposals for pedagogical resources, creative projects, and library se
 
 Invited symposium participants will present their proposals (in draft or prototype form) and engage in workshop activities to refine and develop them using constructive input from the group. Workshopped projects will be shared as an online resource following the symposium. 
 
-Submissions should include a project abstract (500-word max) and bio (50 word max) for each presenter. If submitting with co-authors, please limit the group to no more than three presenters. Please submit all materials via email (\@gmail.com) by January 17, 2020. Successful applicants will be notified of acceptance by February 7, 2020. Email recountai\@gmail.com with additional additional questions. 
+Submissions should include a project abstract (500-word max) and bio (50 word max) for each presenter. If submitting with co-authors, please limit the group to no more than three presenters. Please submit all materials via email [recountingalgs@gmail.com](recountingalgs@gmail.com) by January 17, 2020. Successful applicants will be notified of acceptance by February 7, 2020. Email [recountingalgs@gmail.com](recountingalgs@gmail.com) with additional additional questions. 
 
 ### Coordinators
 
