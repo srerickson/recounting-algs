@@ -3,6 +3,7 @@ title: Recounting Algorithms
 bibliography: cfp.bib
 nocite: '@*'
 css: style.css
+csl: apa.csl
 ---
 
 ###  A Symposium on Critical Algorithm Studies in the Library {#subtitle}
