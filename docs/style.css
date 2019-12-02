@@ -34,6 +34,7 @@ h1.title {
     .subtitle-block {
         float: left;
         clear: both;
+        width: auto;
     }
 
   }
