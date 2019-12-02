@@ -27,7 +27,7 @@ Invited workshop attendees will present proposals (in draft or prototype form) a
 
 ### Submissions
 
-Submissions should include a project abstract (500-word max) and bio (50-word max) for each presenter. If submitting with co-authors, please limit the group to no more than three presenters. Please submit all materials via email <recountingalgs@gmail.com> by January 17, 2020. Successful applicants will be notified of acceptance by February 7, 2020. Email <recountingalgs@gmail.com> with additional additional questions. 
+Submissions should include a project abstract (500-word max) and bio (50-word max) for each presenter. If submitting with co-authors, please limit the group to no more than three presenters. Please submit all materials via email <recountingalgs@gmail.com> by January 17, 2020. Successful applicants will be notified of acceptance by February 7, 2020. Email <recountingalgs@gmail.com> with additional questions. 
 
 ### Keynotes
 
