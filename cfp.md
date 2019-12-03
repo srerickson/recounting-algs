@@ -16,7 +16,7 @@ Efforts to historicize, culturally situate, and foreground algorithmic systems a
 
 Librarians and archivists are beginning to incorporate aspects of this critical discourse through projects that advance algorithmic literacy and initiatives, like [Information Maintainers](http://themaintainers.org/info-mc-work), that emphasize the intersection of information technology, data governance, and social justice. Relatedly, initiatives such as [Emulation as a Service](https://www.softwarepreservationnetwork.org/eaasi/) and [Collections as Data](https://collectionsasdata.github.io/) suggest new services and infrastructures that might facilitate analysis of algorithmic systems.
 
-*We invite proposals for pedagogical resources, creative projects, and library services that explore how libraries can support and build on investigations of algorithmic systems (including, machine learning and AI) and their enabling social conditions*.  While proposals should be oriented toward the library as a context for sustaining and supporting instruction and critical inquiry, we encourage submissions from non-librarians, particularly from educators, researchers, graduate students,  artists, journalists and advocates. Potential themes include but are not limited to:
+*We invite proposals for pedagogical resources, creative projects, and library services that explore how libraries can support and build on investigations of algorithmic systems (including machine learning and AI) and their enabling social conditions*.  While proposals should be oriented toward the library as a context for sustaining and supporting instruction and critical inquiry, we encourage submissions from non-librarians, particularly from educators, researchers, graduate students,  artists, journalists and advocates. Potential themes include but are not limited to:
 
 
 - Projects to collect, preserve, and curate materials relevant to the study of algorithmic systems.
@@ -38,8 +38,8 @@ Keynote speakers will be announced in the coming weeks. Check back soon!
 - Seth Erickson (Penn State University Libraries)
 - Chris Young (University of Toronto Mississauga)
 - Andrew Meade McGee (Carnegie Mellon University Libraries)
-- Justin Shanks (Montana State University Library)
 - Wendy Hoi Yan Wong (Chinese University of Hong Kong Library)
+- Justin Shanks (Montana State University Library)
 
 ### References
 
