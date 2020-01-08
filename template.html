@@ -13,7 +13,15 @@ $endif$
 $if(keywords)$
   <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
 $endif$
-  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+
+$if(title)$
+  <meta name="twitter:title" content="$title$">  
+$endif$
+$if(subtitle)$
+  <meta name="twitter:description" content="$subtitle$">  
+$endif$
+
+  <title>$pagetitle$</title>
   <style type="text/css">
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
