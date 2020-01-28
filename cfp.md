@@ -9,7 +9,7 @@ css: style.css
 csl: apa.csl
 ---
 
-#### Call For Proposals
+#### Call for Proposals — Deadline extended to Feb. 14, 2020
 How can libraries and archives best contribute to the emerging critical discourse on algorithms, machine learning, and artificial intelligence? Recounting Algorithms is a two-day workshop, supported by the Council on Library and Information Resources and hosted by the  University of Toronto Mississauga Library, that aims to enrich the intersections of critical algorithm studies and academic librarianship. 
 
 Efforts to historicize, culturally situate, and foreground algorithmic systems as manifestations of bias and power have flourished recently. Work in this area has contributed important insights into the often oppressive operational conditions of systems used to automate tasks such as hiring, criminal risk assessment, supply chain management, web page ranking, and surveillance. The robustness of this growing field of inquiry is demonstrated in the varied institutional backgrounds of those who have contributed to it—they include journalists, artists, advocates, and academic researchers from across the disciplinary spectrum. 
@@ -25,14 +25,15 @@ Librarians and archivists are beginning to incorporate aspects of this critical 
 
 Invited workshop attendees will present proposals (in draft or prototype form) and participate in workshop activities to further develop their projects. Projects will be shared as an online resource following the workshop. 
 
-### Submissions
-
-Submissions should include a project abstract (500-word max) and bio (50-word max) for each presenter. If submitting with co-authors, please limit the group to no more than three presenters. Please submit all materials via email <recountingalgs@gmail.com> by January 17, 2020. Successful applicants will be notified of acceptance by February 7, 2020. Email <recountingalgs@gmail.com> with additional questions. 
-
 ### Keynotes
 
 - __Meredith Broussard__: Associate professor at the Arthur L. Carter Journalism Institute of New York University and author of “[Artificial Unintelligence: How Computers Misunderstand the World](https://mitpress.mit.edu/books/artificial-unintelligence)" 
 - __Roderic Crooks__: Assistant professor in the Department of Informatics at the University of California, Irvine
+
+### Submissions
+
+Submissions should include a project abstract (500-word max) and bio (50-word max) for each presenter. If submitting with co-authors, please limit the group to no more than three presenters. Please submit all materials via email <recountingalgs@gmail.com> by February 14, 2020 (deadline extended). Email <recountingalgs@gmail.com> with additional questions. 
+
 
 ### Coordinators
 
