@@ -2,14 +2,19 @@
 title: Recounting Algorithms
 subtitle: A Workshop on Critical Algorithm Studies in the Library 
 location: University of Toronto Mississauga Library
-date: May 7-8, 2020
+date: M̶a̶y̶ ̶7̶-̶8̶,̶ ̶2̶0̶2̶0̶ (canceled)
 bibliography: cfp.bib
 nocite: '@*'
 css: style.css
 csl: apa.csl
 ---
 
-#### Call for Proposals — Deadline extended to Feb. 14, 2020
+## COVID-19 Update
+
+Given the recent travel restrictions and global uncertainty related to the COVID-19 virus, we have chosen to cancel the event scheduled for May 7-8th, 2020, at the University of Toronto Mississauga Library. This decision is in keeping with the University of Toronto’s [recommendation](https://www.utoronto.ca/message-from-the-university-regarding-the-coronavirus) to cancel or postpone all discretionary events.  Please note, we are developing alternative plans to best achieve the goals of the project.
+
+## Call for Proposals
+
 How can libraries and archives best contribute to the emerging critical discourse on algorithms, machine learning, and artificial intelligence? Recounting Algorithms is a two-day workshop, supported by the Council on Library and Information Resources and hosted by the  University of Toronto Mississauga Library, that aims to enrich the intersections of critical algorithm studies and academic librarianship. 
 
 Efforts to historicize, culturally situate, and foreground algorithmic systems as manifestations of bias and power have flourished recently. Work in this area has contributed important insights into the often oppressive operational conditions of systems used to automate tasks such as hiring, criminal risk assessment, supply chain management, web page ranking, and surveillance. The robustness of this growing field of inquiry is demonstrated in the varied institutional backgrounds of those who have contributed to it—they include journalists, artists, advocates, and academic researchers from across the disciplinary spectrum. 
@@ -25,17 +30,17 @@ Librarians and archivists are beginning to incorporate aspects of this critical 
 
 Invited workshop attendees will present proposals (in draft or prototype form) and participate in workshop activities to further develop their projects. Projects will be shared as an online resource following the workshop. 
 
-### Keynotes
+## Keynotes
 
 - __Meredith Broussard__: Associate professor at the Arthur L. Carter Journalism Institute of New York University and author of “[Artificial Unintelligence: How Computers Misunderstand the World](https://mitpress.mit.edu/books/artificial-unintelligence)" 
 - __Roderic Crooks__: Assistant professor in the Department of Informatics at the University of California, Irvine
 
-### Submissions
+## Submissions
 
 Submissions should include a project abstract (500-word max) and bio (50-word max) for each presenter. If submitting with co-authors, please limit the group to no more than three presenters. Please submit all materials via email <recountingalgs@gmail.com> by February 14, 2020 (deadline extended). Email <recountingalgs@gmail.com> with additional questions. 
 
 
-### Coordinators
+## Coordinators
 
 - Seth Erickson (Penn State University Libraries)
 - Chris Young (University of Toronto Mississauga)
@@ -43,5 +48,5 @@ Submissions should include a project abstract (500-word max) and bio (50-word ma
 - Wendy Hoi Yan Wong (Chinese University of Hong Kong Library)
 - Justin Shanks (Montana State University Library)
 
-### References
+## References
 
