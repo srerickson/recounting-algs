@@ -12,6 +12,10 @@ h1.title {
     color: lightcoral;
 }
 
+h1.title>a {
+    color: lightcoral;
+    text-decoration:none;
+}
 
 .subtitle-block {
     float: right;

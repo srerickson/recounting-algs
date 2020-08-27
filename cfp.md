@@ -9,9 +9,13 @@ css: style.css
 csl: apa.csl
 ---
 
-## COVID-19 Update
+## Workshop Canceled
 
-Given the recent travel restrictions and global uncertainty related to the COVID-19 virus, we have chosen to cancel the event scheduled for May 7-8th, 2020, at the University of Toronto Mississauga Library. This decision is in keeping with the University of Toronto’s [recommendation](https://www.utoronto.ca/message-from-the-university-regarding-the-coronavirus) to cancel or postpone all discretionary events.  Please note, we are developing alternative plans to best achieve the goals of the project.
+After much deliberation, the workshop organizers have concluded that uncertain conditions regarding international travel, social distancing, and public health restrictions on multi-person gatherings render practical scheduling of a follow-up physical conference impractical. Accordingly, we are formally canceling the “Recounting Algorithms” event. We do not take this decision lightly, but do so out of concern for the safety, time, and mental well-being of the workshop community during uncertain times.
+ 
+## Program
+
+The [workshop program](schedule.html) will remain published online to allow conference speakers and participants to demonstrate their acceptances had the event not been canceled. 
 
 ## Call for Proposals
 
