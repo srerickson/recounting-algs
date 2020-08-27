@@ -73,7 +73,7 @@ Union College*
 - 11:30 AM - 12:15 PM **Session K:** "Putting the Feminist Agenda in the Research Agenda: Creating a Search Research Guide for College Classrooms by Unpacking Assumptions of Neutrality in Search." *Melinda Sebastian, Syracuse University*
 
 
-## Lunch#
+### Lunch
 12:15 PM - 1:15 PM
 
 ### Discussion Block V: Communities and Algorithmic Practice
