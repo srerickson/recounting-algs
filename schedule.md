@@ -39,9 +39,7 @@ csl: apa.csl
 - 1:15 PM - 2:00 PM **Session D:** "Case Studies of Embedded AI Ethics
 Across Disciplines: A Pedagogical Resource." *Vicki Zhang, University of Toronto*
 - 2:00 PM - 2:45 PM **Session E:** "'I Know Exactly How Many XXXX Students are on This Campus.': Exploring the Data Practices and their Impact in Higher Education." *Jonathan Cain, University of Oregon; Kelly McElroy, Oregon State University*
-- 2:45 PM -- 3:30 PM **Session F:** "Alternative Break Seminars: Helping Campuses Engage with Ethics and Information Literacy in AI."
-- *Adam Mazel, Union College; Jen Grayburn, Union College; Sean Tennant,
-Union College*
+- 2:45 PM -- 3:30 PM **Session F:** "Alternative Break Seminars: Helping Campuses Engage with Ethics and Information Literacy in AI." *Adam Mazel, Union College; Jen Grayburn, Union College; Sean Tennant, Union College*
 
 ### Break
 3:30 PM - 3:45 PM Coffee Break
